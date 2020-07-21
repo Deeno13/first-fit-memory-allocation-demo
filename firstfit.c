@@ -30,6 +30,8 @@ int main() {
     finalAlloc(arr, i, j, holeSize);
     pause();
 
+    printf("hello");
+
     return 0;
 }
 
